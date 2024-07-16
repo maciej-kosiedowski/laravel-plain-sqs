@@ -1,5 +1,5 @@
 {
-    "name": "dusterio/laravel-plain-sqs",
+    "name": "slimad/laravel-plain-sqs",
     "type": "library",
     "description": "Custom SQS connector for Laravel that supports custom format JSON",
     "keywords": [
@@ -16,6 +16,11 @@
             "name": "Denis Mysenko",
             "email": "denis@mysenko.com",
             "homepage": "https://www.mysenko.com"
+        },
+        {
+            "name": "Maciej Kosiedowski",
+            "email": "kosiedowskimaciej@gmail.com",
+            "homepage": "https://www.slimad.pl"
         }
     ],
     "require": {
